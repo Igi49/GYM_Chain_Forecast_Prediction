@@ -1,2 +1,2 @@
 # GYM_Chain_Forecast_Prediction
-ML_Project_TripleTen_DA_Course
+ML Project TripleTen DA Course
